@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms along with Web Development
 - 📫 How to reach me :
 - Linkedin https://www.linkedin.com/in/mohit-negi-232707237/
-- Twitter https://x.com/mnegi_
+- Twitter https://x.com/mnegi_/
 - 😄 Pronouns: He/His
 
 <!---
