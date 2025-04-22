@@ -7,4 +7,4 @@ Mohit251103/Mohit251103 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Currently learning : Golang
+Currently learning : Golang, Django
